@@ -1,0 +1,1 @@
+1. 使用jupyter : 安装anaconda (pip3安装需要解决的依赖太多) ,安装jupyter
